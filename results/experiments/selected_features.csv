@@ -1,0 +1,121 @@
+feature_set,top_k,rank,feature_name,score
+Selected,10,1,Contract_Month-to-month,1147.4919199822536
+Selected,10,2,tenure,793.7534903128319
+Selected,10,3,OnlineSecurity_No,761.2923050424233
+Selected,10,4,TechSupport_No,720.8115981320493
+Selected,10,5,InternetService_Fiber optic,582.6552555655547
+Selected,10,6,PaymentMethod_Electronic check,578.1583133663928
+Selected,10,7,Contract_Two year,563.4898660853221
+Selected,10,8,OnlineBackup_No,445.9352739154579
+Selected,10,9,DeviceProtection_No,373.3118349559411
+Selected,10,10,StreamingMovies_No internet service,306.6831204444657
+Selected,20,1,Contract_Month-to-month,1147.4919199822536
+Selected,20,2,tenure,793.7534903128319
+Selected,20,3,OnlineSecurity_No,761.2923050424233
+Selected,20,4,TechSupport_No,720.8115981320493
+Selected,20,5,InternetService_Fiber optic,582.6552555655547
+Selected,20,6,PaymentMethod_Electronic check,578.1583133663928
+Selected,20,7,Contract_Two year,563.4898660853221
+Selected,20,8,OnlineBackup_No,445.9352739154579
+Selected,20,9,DeviceProtection_No,373.3118349559411
+Selected,20,10,OnlineBackup_No internet service,306.6831204444657
+Selected,20,11,DeviceProtection_No internet service,306.6831204444657
+Selected,20,12,OnlineSecurity_No internet service,306.6831204444657
+Selected,20,13,StreamingMovies_No internet service,306.6831204444657
+Selected,20,14,StreamingTV_No internet service,306.6831204444657
+Selected,20,15,InternetService_No,306.6831204444657
+Selected,20,16,TechSupport_No internet service,306.6831204444657
+Selected,20,17,TotalCharges,229.40911861631682
+Selected,20,18,MonthlyCharges,218.6229053060069
+Selected,20,19,PaperlessBilling_No,207.18845877728702
+Selected,20,20,PaperlessBilling_Yes,207.18845877728603
+Selected,30,1,Contract_Month-to-month,1147.4919199822536
+Selected,30,2,tenure,793.7534903128319
+Selected,30,3,OnlineSecurity_No,761.2923050424233
+Selected,30,4,TechSupport_No,720.8115981320493
+Selected,30,5,InternetService_Fiber optic,582.6552555655547
+Selected,30,6,PaymentMethod_Electronic check,578.1583133663928
+Selected,30,7,Contract_Two year,563.4898660853221
+Selected,30,8,OnlineBackup_No,445.9352739154579
+Selected,30,9,DeviceProtection_No,373.3118349559411
+Selected,30,10,DeviceProtection_No internet service,306.6831204444657
+Selected,30,11,OnlineBackup_No internet service,306.6831204444657
+Selected,30,12,InternetService_No,306.6831204444657
+Selected,30,13,OnlineSecurity_No internet service,306.6831204444657
+Selected,30,14,TechSupport_No internet service,306.6831204444657
+Selected,30,15,StreamingMovies_No internet service,306.6831204444657
+Selected,30,16,StreamingTV_No internet service,306.6831204444657
+Selected,30,17,TotalCharges,229.40911861631682
+Selected,30,18,MonthlyCharges,218.6229053060069
+Selected,30,19,PaperlessBilling_No,207.18845877728702
+Selected,30,20,PaperlessBilling_Yes,207.18845877728603
+Selected,30,21,Contract_One year,201.18737572969934
+Selected,30,22,OnlineSecurity_Yes,178.15231749655342
+Selected,30,23,Dependents_No,169.73756363211632
+Selected,30,24,Dependents_Yes,169.73756363211606
+Selected,30,25,TechSupport_Yes,156.90182649905245
+Selected,30,26,Partner_Yes,137.15045208242222
+Selected,30,27,Partner_No,137.15045208242128
+Selected,30,28,SeniorCitizen_1,131.14891218891523
+Selected,30,29,SeniorCitizen_0,131.14891218891395
+Selected,30,30,PaymentMethod_Credit card (automatic),101.13833372485071
+Combined,10,1,Contract_Month-to-month,1147.4919199822536
+Combined,10,2,ChargePerService,1026.1040358704684
+Combined,10,3,tenure,793.7534903128319
+Combined,10,4,OnlineSecurity_No,761.2923050424233
+Combined,10,5,TechSupport_No,720.8115981320493
+Combined,10,6,TenureGroup_0-12,654.078515706031
+Combined,10,7,InternetService_Fiber optic,582.6552555655547
+Combined,10,8,PaymentMethod_Electronic check,578.1583133663928
+Combined,10,9,Contract_Two year,563.4898660853221
+Combined,10,10,OnlineBackup_No,445.9352739154579
+Combined,20,1,Contract_Month-to-month,1147.4919199822536
+Combined,20,2,ChargePerService,1026.1040358704684
+Combined,20,3,tenure,793.7534903128319
+Combined,20,4,OnlineSecurity_No,761.2923050424233
+Combined,20,5,TechSupport_No,720.8115981320493
+Combined,20,6,TenureGroup_0-12,654.078515706031
+Combined,20,7,InternetService_Fiber optic,582.6552555655547
+Combined,20,8,PaymentMethod_Electronic check,578.1583133663928
+Combined,20,9,Contract_Two year,563.4898660853221
+Combined,20,10,OnlineBackup_No,445.9352739154579
+Combined,20,11,DeviceProtection_No,373.3118349559411
+Combined,20,12,DeviceProtection_No internet service,306.6831204444657
+Combined,20,13,StreamingMovies_No internet service,306.6831204444657
+Combined,20,14,OnlineBackup_No internet service,306.6831204444657
+Combined,20,15,InternetService_No,306.6831204444657
+Combined,20,16,OnlineSecurity_No internet service,306.6831204444657
+Combined,20,17,TechSupport_No internet service,306.6831204444657
+Combined,20,18,StreamingTV_No internet service,306.6831204444657
+Combined,20,19,TenureGroup_61-72,300.09673036158375
+Combined,20,20,IsAutomaticPayment,275.2572568750778
+Combined,30,1,Contract_Month-to-month,1147.4919199822536
+Combined,30,2,ChargePerService,1026.1040358704684
+Combined,30,3,tenure,793.7534903128319
+Combined,30,4,OnlineSecurity_No,761.2923050424233
+Combined,30,5,TechSupport_No,720.8115981320493
+Combined,30,6,TenureGroup_0-12,654.078515706031
+Combined,30,7,InternetService_Fiber optic,582.6552555655547
+Combined,30,8,PaymentMethod_Electronic check,578.1583133663928
+Combined,30,9,Contract_Two year,563.4898660853221
+Combined,30,10,OnlineBackup_No,445.9352739154579
+Combined,30,11,DeviceProtection_No,373.3118349559411
+Combined,30,12,OnlineBackup_No internet service,306.6831204444657
+Combined,30,13,OnlineSecurity_No internet service,306.6831204444657
+Combined,30,14,InternetService_No,306.6831204444657
+Combined,30,15,StreamingTV_No internet service,306.6831204444657
+Combined,30,16,StreamingMovies_No internet service,306.6831204444657
+Combined,30,17,TechSupport_No internet service,306.6831204444657
+Combined,30,18,DeviceProtection_No internet service,306.6831204444657
+Combined,30,19,TenureGroup_61-72,300.09673036158375
+Combined,30,20,IsAutomaticPayment,275.2572568750778
+Combined,30,21,TotalCharges,229.40911861631682
+Combined,30,22,MonthlyCharges,218.6229053060069
+Combined,30,23,PaperlessBilling_No,207.18845877728702
+Combined,30,24,PaperlessBilling_Yes,207.18845877728603
+Combined,30,25,HasSupportService,202.42393326240926
+Combined,30,26,Contract_One year,201.18737572969934
+Combined,30,27,OnlineSecurity_Yes,178.15231749655342
+Combined,30,28,Dependents_No,169.73756363211632
+Combined,30,29,Dependents_Yes,169.73756363211606
+Combined,30,30,TechSupport_Yes,156.90182649905245
