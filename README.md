@@ -20,9 +20,10 @@ Logistic Regression, Random Forest and XGBoost are then selected for further fea
 
 ## Project Structure
 
-- `src/` - data processing, models and experiment functions
-- `scripts/` - scripts used to run the experiments
+- `src/` - data processing, model definitions and experiment functions
+- `scripts/` - scripts used to run the experiments and generate figures
 - `results/experiments/` - experimental results
+- `results/feature_engineering/` - feature ranking results
 - `results/figures/` - figures used in the dissertation
 
 ## Dataset
@@ -31,18 +32,24 @@ The project uses the Telco Customer Churn dataset:
 
 `WA_Fn-UseC_-Telco-Customer-Churn.csv`
 
-Place the dataset in the `data/` directory before running the scripts.
+Create a `data/` directory in the project root and place the dataset file there before running the scripts.
 
 ## Main Experiments
 
 1. Data cleaning and preprocessing
-2. Baseline model comparison
-3. Hyperparameter experiments
-4. Five-fold cross-validation
-5. Feature engineering experiments
-6. Permutation Importance analysis
-7. Repeated data-split validation
+2. Exploratory data analysis
+3. Baseline model comparison
+4. Hyperparameter experiments
+5. Five-fold cross-validation
+6. Feature engineering experiments
+7. Permutation Importance analysis
+8. Repeated data-split validation
 
 ## Requirements
 
-See `requirements.txt`.
+The project was developed using Python 3.13.
+
+Install the required Python packages using:
+
+```bash
+pip install -r requirements.txt
