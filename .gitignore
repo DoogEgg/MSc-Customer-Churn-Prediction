@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+.idea/
+temp_joblib/
+notebooks/note.txt
+data/*.csv
